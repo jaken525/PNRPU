@@ -1,0 +1,4 @@
+﻿  лаба 7.1 и 7.2.cpp
+C:\Users\Admin\source\repos\лаба 7.1 и 7.2\лаба 7.1 и 7.2\лаба 7.1 и 7.2.cpp(132,9): warning C4244: return: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\Admin\source\repos\лаба 7.1 и 7.2\лаба 7.1 и 7.2\лаба 7.1 и 7.2.cpp(140,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  лаба 7.1 и 7.2.vcxproj -> C:\Users\Admin\source\repos\лаба 7.1 и 7.2\x64\Debug\лаба 7.1 и 7.2.exe
