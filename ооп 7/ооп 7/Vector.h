@@ -12,7 +12,7 @@ public:
     Vector() : size_(0), capacity_(10), elements_(new T[capacity_]) {}
     ~Vector() { delete[] elements_; }
 
-    void add(const T& element);
+    T operator+(const T& element);
     int size() const { return size_; }
     T operator[](int index) const { return elements_[index]; }
     Vector<T> intersect(const Vector<T>& other) const;
@@ -25,7 +25,7 @@ private:
 
 template<typename T>
 
-void Vector<T>::add(const T& element) 
+T operator+(const T& element)
 {
     for (int i = 0; i < size_; i++)
         if (elements_[i] == element)
