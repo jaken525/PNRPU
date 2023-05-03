@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include "Vector.h"
 #include "Money.h"
 
@@ -8,13 +8,13 @@ int main()
 {
     // Создание и заполнение множеств
     Vector<int> s1;
-    s1.add(1);
-    s1.add(2);
-    s1.add(3);
+    s1 + 1;
+    s1 + 2;
+    s1 + 3;
     Vector<int> s2;
-    s2.add(2);
-    s2.add(3);
-    s2.add(4);
+    s2 + 2;
+    s2 + 3;
+    s2 + 4;
 
     // Вывод содержимого множеств
     cout << "Set 1: ";
