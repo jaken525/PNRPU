@@ -4,7 +4,7 @@
 
 using namespace std;
 
-typedef vector<float> Vec;
+typedef vector<double> Vec;
 
 Vec make_vector(int n)
 {
@@ -77,8 +77,8 @@ void main()
 {
 	try
 	{
-		vector<float> v;
-		vector<float>::iterator vi = v.begin();
+		vector<double> v;
+		vector<double>::iterator vi = v.begin();
 
 		int n;
 		cout << "Size: ";
