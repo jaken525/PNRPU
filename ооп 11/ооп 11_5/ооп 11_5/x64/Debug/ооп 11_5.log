@@ -1,0 +1,8 @@
+﻿  Money.cpp
+  ооп 11_5.cpp
+C:\Users\Admin\source\repos\ооп 11_5\ооп 11_5\Vector.h(65,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\ооп 11_5\ооп 11_5\Vector.h(58,1): message : во время компиляции функции-члена класс шаблон "Vector<Money>::Vector(int)"
+C:\Users\Admin\source\repos\ооп 11_5\ооп 11_5\ооп 11_5.cpp(11,16): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<Money>::Vector(int)"
+C:\Users\Admin\source\repos\ооп 11_5\ооп 11_5\ооп 11_5.cpp(11,18): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Money>"
+  Создание кода...
+  ооп 11_5.vcxproj -> C:\Users\Admin\source\repos\ооп 11_5\x64\Debug\ооп 11_5.exe
