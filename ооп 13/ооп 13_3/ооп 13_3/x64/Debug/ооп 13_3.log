@@ -1,0 +1,5 @@
+﻿  Money.cpp
+  ооп 13_3.cpp
+C:\Users\Admin\source\repos\ооп 13_3\ооп 13_3\ооп 13_3.cpp(43,24): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  ооп 13_3.vcxproj -> C:\Users\Admin\source\repos\ооп 13_3\x64\Debug\ооп 13_3.exe
