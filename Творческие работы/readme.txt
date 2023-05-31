@@ -4,3 +4,5 @@ https://drive.google.com/file/d/1Q9TtYbauFhmfY7rVXoevHiSZFASvOIn8/view?usp=shari
 АРМ разработчика игры: BCCTool
 
 Задача Коммивояжёра: Commiglut
+
+Видео: https://youtu.be/lRRNL509VTE
