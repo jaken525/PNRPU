@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\VitalikTeamLibrary\VitalikTeamLibrary\bin\Debug\net6.0\VitalikTeamLibrary.deps.json
+C:\Users\Admin\source\repos\VitalikTeamLibrary\VitalikTeamLibrary\bin\Debug\net6.0\VitalikTeamLibrary.dll
+C:\Users\Admin\source\repos\VitalikTeamLibrary\VitalikTeamLibrary\bin\Debug\net6.0\VitalikTeamLibrary.pdb
+C:\Users\Admin\source\repos\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net6.0\VitalikTeamLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net6.0\VitalikTeamLibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net6.0\VitalikTeamLibrary.AssemblyInfo.cs
+C:\Users\Admin\source\repos\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net6.0\VitalikTeamLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net6.0\VitalikTeamLibrary.dll
+C:\Users\Admin\source\repos\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net6.0\refint\VitalikTeamLibrary.dll
+C:\Users\Admin\source\repos\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net6.0\VitalikTeamLibrary.pdb
+C:\Users\Admin\source\repos\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net6.0\ref\VitalikTeamLibrary.dll

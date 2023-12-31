@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VitalikTeamLibraries.Person">
+    <Position X="1.25" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAACAQAQEgEAEAAAAAAAEAIAAAAQCABAAABA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VitalikTeamLibraries.Employee">
+    <Position X="4" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAACAAAAEgAAAAAAAAAAEAIAAAAACABCAABA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VitalikTeamLibraries.Engineer">
+    <Position X="1.25" Y="5.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQACAAAAEgAAAAAAAAAAEBIAAAAACABAAABA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VitalikTeamLibraries.Adminstartor">
+    <Position X="6.5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAEgAAAACAAAAAkCIAAAAgCABAAABA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VitalikTeamLibraries.PersonComparer">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>PersonComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VitalikTeamLibraries.RandomForTests" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAQAQEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RandomForTests.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VitalikTeamLibraries.Randomizer">
+    <Position X="11.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAgAAAAAAAEAAAAQAAAAAAIA=</HashCode>
+      <FileName>RandomForTests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="VitalikTeamLibraries.IRandomInit">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RandomForTests.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

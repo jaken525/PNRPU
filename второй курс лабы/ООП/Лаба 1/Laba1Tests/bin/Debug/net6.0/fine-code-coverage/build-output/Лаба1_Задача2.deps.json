@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Лаба1_Задача2/1.0.0": {
+        "dependencies": {
+          "VitalikTeamLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Лаба1_Задача2.dll": {}
+        }
+      },
+      "VitalikTeamLibrary/1.0.0": {
+        "runtime": {
+          "VitalikTeamLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Лаба1_Задача2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VitalikTeamLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

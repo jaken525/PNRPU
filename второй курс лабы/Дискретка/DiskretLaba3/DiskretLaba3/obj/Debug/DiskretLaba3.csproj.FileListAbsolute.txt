@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\DiskretLaba3\DiskretLaba3\obj\Debug\DiskretLaba3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DiskretLaba3\DiskretLaba3\obj\Debug\DiskretLaba3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DiskretLaba3\DiskretLaba3\bin\Debug\DiskretLaba3.exe.config
+C:\Users\Admin\source\repos\DiskretLaba3\DiskretLaba3\bin\Debug\DiskretLaba3.exe
+C:\Users\Admin\source\repos\DiskretLaba3\DiskretLaba3\bin\Debug\DiskretLaba3.pdb
+C:\Users\Admin\source\repos\DiskretLaba3\DiskretLaba3\obj\Debug\DiskretLaba3.exe
+C:\Users\Admin\source\repos\DiskretLaba3\DiskretLaba3\obj\Debug\DiskretLaba3.pdb

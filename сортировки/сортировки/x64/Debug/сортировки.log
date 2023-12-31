@@ -1,4 +1,0 @@
-﻿  сортировки.cpp
-C:\Users\Admin\source\repos\сортировки\сортировки\сортировки.cpp(445,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Admin\source\repos\сортировки\сортировки\сортировки.cpp(91): warning C4715: Series: значение возвращается не при всех путях выполнения
-  сортировки.vcxproj -> C:\Users\Admin\source\repos\сортировки\x64\Debug\сортировки.exe

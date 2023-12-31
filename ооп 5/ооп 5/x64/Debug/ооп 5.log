@@ -1,3 +1,0 @@
-﻿  ооп 5.cpp
-C:\Users\Admin\source\repos\ооп 5\ооп 5\ооп 5.cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  ооп 5.vcxproj -> C:\Users\Admin\source\repos\ооп 5\x64\Debug\ооп 5.exe

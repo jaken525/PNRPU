@@ -1,6 +1,0 @@
-﻿  Money.cpp
-  ооп 12_2.cpp
-C:\Users\Admin\source\repos\ооп 12\ооп 12_2\ооп 12_2\ооп 12_2.cpp(37,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Admin\source\repos\ооп 12\ооп 12_2\ооп 12_2\ооп 12_2.cpp(86,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  Создание кода...
-  ооп 12_2.vcxproj -> C:\Users\Admin\source\repos\ооп 12\ооп 12_2\x64\Debug\ооп 12_2.exe

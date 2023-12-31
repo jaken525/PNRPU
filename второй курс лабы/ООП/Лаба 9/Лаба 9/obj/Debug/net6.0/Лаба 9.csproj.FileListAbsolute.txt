@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\bin\Debug\net6.0\Лаба 9.exe
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\bin\Debug\net6.0\Лаба 9.deps.json
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\bin\Debug\net6.0\Лаба 9.runtimeconfig.json
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\bin\Debug\net6.0\Лаба 9.dll
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\bin\Debug\net6.0\Лаба 9.pdb
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\obj\Debug\net6.0\Лаба 9.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\obj\Debug\net6.0\Лаба 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\obj\Debug\net6.0\Лаба 9.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\obj\Debug\net6.0\Лаба 9.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\obj\Debug\net6.0\Лаба 9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\obj\Debug\net6.0\Лаба 9.dll
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\obj\Debug\net6.0\refint\Лаба 9.dll
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\obj\Debug\net6.0\Лаба 9.pdb
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\obj\Debug\net6.0\Лаба 9.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\obj\Debug\net6.0\ref\Лаба 9.dll
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\bin\Debug\net6.0\VitalikTeamLibrary.dll
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\bin\Debug\net6.0\VitalikTeamLibrary.pdb
+C:\Users\Admin\source\repos\Лаба 9\Лаба 9\obj\Debug\net6.0\Лаба 9.csproj.CopyComplete

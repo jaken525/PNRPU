@@ -1,9 +1,0 @@
-﻿  Dialog.cpp
-  Emloyee.cpp
-  Object.cpp
-  Person.cpp
-  Vector.cpp
-  ооп 8.cpp
-C:\Users\Admin\source\repos\ооп 8\ооп 8\ооп 8.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  Создание кода...
-  ооп 8.vcxproj -> C:\Users\Admin\source\repos\ооп 8\x64\Debug\ооп 8.exe

@@ -1,4 +1,0 @@
-﻿  ооп4.cpp
-C:\Users\Admin\source\repos\ооп4\ооп4\ооп4.cpp(75,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-C:\Users\Admin\source\repos\ооп4\ооп4\ооп4.cpp(87,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-  ооп4.vcxproj -> C:\Users\Admin\source\repos\ооп4\x64\Debug\ооп4.exe
