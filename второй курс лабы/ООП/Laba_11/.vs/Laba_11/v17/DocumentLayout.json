@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{410638EF-B6E4-4EEE-B612-E2FF8E6C3906}|..\\Laba10\\Laba10\\Laba10.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\laba10\\laba10\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410638EF-B6E4-4EEE-B612-E2FF8E6C3906}|..\\Laba10\\Laba10\\Laba10.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\laba10\\laba10\\personcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410638EF-B6E4-4EEE-B612-E2FF8E6C3906}|..\\Laba10\\Laba10\\Laba10.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\laba10\\laba10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2880D5-A137-4970-BBA8-AD8F7C75B044}|Laba_11\\Laba_11.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\laba_11\\laba_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2880D5-A137-4970-BBA8-AD8F7C75B044}|Laba_11\\Laba_11.csproj|solutionrelative:laba_11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2880D5-A137-4970-BBA8-AD8F7C75B044}|Laba_11\\Laba_11.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\laba_11\\laba_11\\testcollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2880D5-A137-4970-BBA8-AD8F7C75B044}|Laba_11\\Laba_11.csproj|solutionrelative:laba_11\\testcollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410638EF-B6E4-4EEE-B612-E2FF8E6C3906}|..\\Laba10\\Laba10\\Laba10.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\laba10\\laba10\\randomfortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RandomForTests.cs",
+              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba10\\Laba10\\RandomForTests.cs",
+              "RelativeDocumentMoniker": "..\\Laba10\\Laba10\\RandomForTests.cs",
+              "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba10\\Laba10\\RandomForTests.cs",
+              "RelativeToolTip": "..\\Laba10\\Laba10\\RandomForTests.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAjwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-19T16:35:27.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba10\\Laba10\\Person.cs",
+              "RelativeDocumentMoniker": "..\\Laba10\\Laba10\\Person.cs",
+              "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba10\\Laba10\\Person.cs",
+              "RelativeToolTip": "..\\Laba10\\Laba10\\Person.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAADwv1MAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-19T16:35:25.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba10\\Laba10\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Laba10\\Laba10\\Program.cs",
+              "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba10\\Laba10\\Program.cs",
+              "RelativeToolTip": "..\\Laba10\\Laba10\\Program.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAAAUwCEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-14T11:33:01.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonComparer.cs",
+              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba10\\Laba10\\PersonComparer.cs",
+              "RelativeDocumentMoniker": "..\\Laba10\\Laba10\\PersonComparer.cs",
+              "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba10\\Laba10\\PersonComparer.cs",
+              "RelativeToolTip": "..\\Laba10\\Laba10\\PersonComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-14T11:33:01.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestCollections.cs",
+              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba_11\\Laba_11\\TestCollections.cs",
+              "RelativeDocumentMoniker": "Laba_11\\TestCollections.cs",
+              "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba_11\\Laba_11\\TestCollections.cs",
+              "RelativeToolTip": "Laba_11\\TestCollections.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-14T11:33:01.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba_11\\Laba_11\\Program.cs",
+              "RelativeDocumentMoniker": "Laba_11\\Program.cs",
+              "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba_11\\Laba_11\\Program.cs",
+              "RelativeToolTip": "Laba_11\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAArwCIAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-14T11:33:01.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

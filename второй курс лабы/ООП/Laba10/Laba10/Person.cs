@@ -125,13 +125,11 @@ namespace VitalikTeamLibraries
         /// </summary>
         public virtual void Init()
         {
-            this.Age = VitalikTeamLibrary.VitalikTeam.ReadValue();
+            this.Age = VitalikTeamLibrary.VitalikTeam.ReadValue("возраст");
 
-            this.name = VitalikTeamLibrary.VitalikTeam.ReadString();
-            this.surname = VitalikTeamLibrary.VitalikTeam.ReadString();
-            this.patronymic = VitalikTeamLibrary.VitalikTeam.ReadString();
-
-            this.random = new RandomForTests(VitalikTeamLibrary.VitalikTeam.ReadValue());
+            this.name = VitalikTeamLibrary.VitalikTeam.ReadString("имя");
+            this.surname = VitalikTeamLibrary.VitalikTeam.ReadString("фамилия");
+            this.patronymic = VitalikTeamLibrary.VitalikTeam.ReadString("отчество");
         }
 
         /// <summary>
@@ -242,7 +240,7 @@ namespace VitalikTeamLibraries
         public override void Init()
         {
             base.Init();
-            hours = VitalikTeamLibrary.VitalikTeam.ReadValue();
+            hours = VitalikTeamLibrary.VitalikTeam.ReadValue("часы");
         }
 
         /// <summary>
@@ -376,8 +374,8 @@ namespace VitalikTeamLibraries
         {
             base.Init();
 
-            qualification = VitalikTeamLibrary.VitalikTeam.ReadString();
-            CountOfInventions = VitalikTeamLibrary.VitalikTeam.ReadValue();
+            qualification = VitalikTeamLibrary.VitalikTeam.ReadString("квалификация");
+            CountOfInventions = VitalikTeamLibrary.VitalikTeam.ReadValue("кол-во инноваций");
         }
 
         /// <summary>
@@ -525,8 +523,8 @@ namespace VitalikTeamLibraries
         {
             base.Init();
 
-            CountOfSubordinates = VitalikTeamLibrary.VitalikTeam.ReadValue();
-            Efficiency = VitalikTeamLibrary.VitalikTeam.ReadValue();
+            CountOfSubordinates = VitalikTeamLibrary.VitalikTeam.ReadValue("кол-во подчинённых");
+            Efficiency = VitalikTeamLibrary.VitalikTeam.ReadValue("эффективность (от 0 до 10)");
         }
 
         /// <summary>

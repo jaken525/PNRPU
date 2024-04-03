@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laba_11", "Laba_11\Laba_11.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laba10", "..\Laba10\Laba10\Laba10.csproj", "{410638EF-B6E4-4EEE-B612-E2FF8E6C3906}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VitalikTeamLibrary", "..\VitalikTeamLibrary\VitalikTeamLibrary\VitalikTeamLibrary.csproj", "{DE48683A-1315-4500-B473-17B1B1790865}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{410638EF-B6E4-4EEE-B612-E2FF8E6C3906}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{410638EF-B6E4-4EEE-B612-E2FF8E6C3906}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{410638EF-B6E4-4EEE-B612-E2FF8E6C3906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE48683A-1315-4500-B473-17B1B1790865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE48683A-1315-4500-B473-17B1B1790865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE48683A-1315-4500-B473-17B1B1790865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE48683A-1315-4500-B473-17B1B1790865}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

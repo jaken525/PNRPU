@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u9MYm7AnYAQYaXWjhsktOIatVKgNYgh/jKIPJz4KbuAeGfGqGu1Fqojg3sV0kqGS6pCSrnD53ZxHjiGzhqXgWA==",
+  "dgSpecHash": "2Wi75GQ2v5sl9g3HrOxD5/godVFAOuPoKqNfxy6eQT7Ad3tGxpwJv8UuJ0/Catb5bE6wojphHJ05FelfSam0CA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Лаба 9\\Test 9\\Test 9.csproj",
+  "projectFilePath": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Лаба 9\\Test 9\\Test 9.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

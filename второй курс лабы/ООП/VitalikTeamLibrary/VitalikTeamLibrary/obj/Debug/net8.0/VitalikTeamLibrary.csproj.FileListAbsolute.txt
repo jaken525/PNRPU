@@ -1,0 +1,12 @@
+A:\GitHub\PNRPU\второй курс лабы\ООП\VitalikTeamLibrary\VitalikTeamLibrary\bin\Debug\net8.0\VitalikTeamLibrary.deps.json
+A:\GitHub\PNRPU\второй курс лабы\ООП\VitalikTeamLibrary\VitalikTeamLibrary\bin\Debug\net8.0\VitalikTeamLibrary.dll
+A:\GitHub\PNRPU\второй курс лабы\ООП\VitalikTeamLibrary\VitalikTeamLibrary\bin\Debug\net8.0\VitalikTeamLibrary.pdb
+A:\GitHub\PNRPU\второй курс лабы\ООП\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net8.0\VitalikTeamLibrary.GeneratedMSBuildEditorConfig.editorconfig
+A:\GitHub\PNRPU\второй курс лабы\ООП\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net8.0\VitalikTeamLibrary.AssemblyInfoInputs.cache
+A:\GitHub\PNRPU\второй курс лабы\ООП\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net8.0\VitalikTeamLibrary.AssemblyInfo.cs
+A:\GitHub\PNRPU\второй курс лабы\ООП\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net8.0\VitalikTeamLibrary.csproj.CoreCompileInputs.cache
+A:\GitHub\PNRPU\второй курс лабы\ООП\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net8.0\VitalikTeamLibrary.sourcelink.json
+A:\GitHub\PNRPU\второй курс лабы\ООП\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net8.0\VitalikTeamLibrary.dll
+A:\GitHub\PNRPU\второй курс лабы\ООП\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net8.0\refint\VitalikTeamLibrary.dll
+A:\GitHub\PNRPU\второй курс лабы\ООП\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net8.0\VitalikTeamLibrary.pdb
+A:\GitHub\PNRPU\второй курс лабы\ООП\VitalikTeamLibrary\VitalikTeamLibrary\obj\Debug\net8.0\ref\VitalikTeamLibrary.dll

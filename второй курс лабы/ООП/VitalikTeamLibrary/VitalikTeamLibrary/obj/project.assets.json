@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\VitalikTeamLibrary\\VitalikTeamLibrary\\VitalikTeamLibrary.csproj",
+      "projectUniqueName": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\VitalikTeamLibrary\\VitalikTeamLibrary\\VitalikTeamLibrary.csproj",
       "projectName": "VitalikTeamLibrary",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\VitalikTeamLibrary\\VitalikTeamLibrary\\VitalikTeamLibrary.csproj",
+      "projectPath": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\VitalikTeamLibrary\\VitalikTeamLibrary\\VitalikTeamLibrary.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\VitalikTeamLibrary\\VitalikTeamLibrary\\obj\\",
+      "outputPath": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\VitalikTeamLibrary\\VitalikTeamLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

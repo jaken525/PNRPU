@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u0430 9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{176B112E-6DD3-4C94-9C3E-9CF1B5B6197B}|\u041B\u0430\u0431\u0430 9\\\u041B\u0430\u0431\u0430 9.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u0430 9\\\u043B\u0430\u0431\u0430 9\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176B112E-6DD3-4C94-9C3E-9CF1B5B6197B}|\u041B\u0430\u0431\u0430 9\\\u041B\u0430\u0431\u0430 9.csproj|solutionrelative:\u043B\u0430\u0431\u0430 9\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176B112E-6DD3-4C94-9C3E-9CF1B5B6197B}|\u041B\u0430\u0431\u0430 9\\\u041B\u0430\u0431\u0430 9.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u0430 9\\\u043B\u0430\u0431\u0430 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176B112E-6DD3-4C94-9C3E-9CF1B5B6197B}|\u041B\u0430\u0431\u0430 9\\\u041B\u0430\u0431\u0430 9.csproj|solutionrelative:\u043B\u0430\u0431\u0430 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43761D6-AF04-479D-BEF8-9EF759B95520}|..\\VitalikTeamLibrary\\VitalikTeamLibrary\\VitalikTeamLibrary.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\vitalikteamlibrary\\vitalikteamlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB2C5B6-983F-4EA3-AA0C-39EC664E6098}|Test 9\\Test 9.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u0430 9\\test 9\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB2C5B6-983F-4EA3-AA0C-39EC664E6098}|Test 9\\Test 9.csproj|solutionrelative:test 9\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176B112E-6DD3-4C94-9C3E-9CF1B5B6197B}|\u041B\u0430\u0431\u0430 9\\\u041B\u0430\u0431\u0430 9.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\\u043B\u0430\u0431\u0430 9\\\u043B\u0430\u0431\u0430 9\\moneyarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176B112E-6DD3-4C94-9C3E-9CF1B5B6197B}|\u041B\u0430\u0431\u0430 9\\\u041B\u0430\u0431\u0430 9.csproj|solutionrelative:\u043B\u0430\u0431\u0430 9\\moneyarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\VitalikTeamLibrary\\VitalikTeamLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\VitalikTeamLibrary\\VitalikTeamLibrary\\Class1.cs",
+              "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\VitalikTeamLibrary\\VitalikTeamLibrary\\Class1.cs",
+              "RelativeToolTip": "..\\VitalikTeamLibrary\\VitalikTeamLibrary\\Class1.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:35:44.359Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u0430 9\\Test 9\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test 9\\UnitTest1.cs",
+              "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u0430 9\\Test 9\\UnitTest1.cs",
+              "RelativeToolTip": "Test 9\\UnitTest1.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAgwM0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:35:44.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoneyArray.cs",
+              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u0430 9\\\u041B\u0430\u0431\u0430 9\\MoneyArray.cs",
+              "RelativeDocumentMoniker": "\u041B\u0430\u0431\u0430 9\\MoneyArray.cs",
+              "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u0430 9\\\u041B\u0430\u0431\u0430 9\\MoneyArray.cs",
+              "RelativeToolTip": "\u041B\u0430\u0431\u0430 9\\MoneyArray.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwBcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:35:44.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Money.cs",
+              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u0430 9\\\u041B\u0430\u0431\u0430 9\\Money.cs",
+              "RelativeDocumentMoniker": "\u041B\u0430\u0431\u0430 9\\Money.cs",
+              "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u0430 9\\\u041B\u0430\u0431\u0430 9\\Money.cs",
+              "RelativeToolTip": "\u041B\u0430\u0431\u0430 9\\Money.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAkwIIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:35:44.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u0430 9\\\u041B\u0430\u0431\u0430 9\\Program.cs",
+              "RelativeDocumentMoniker": "\u041B\u0430\u0431\u0430 9\\Program.cs",
+              "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\\u041B\u0430\u0431\u0430 9\\\u041B\u0430\u0431\u0430 9\\Program.cs",
+              "RelativeToolTip": "\u041B\u0430\u0431\u0430 9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:35:44.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
