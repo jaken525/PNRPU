@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Laba12\\Laba12\\Laba12.csproj": {}
+    "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Laba12\\Laba12\\Laba12.csproj": {}
   },
   "projects": {
     "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Laba10\\Laba10\\Laba10.csproj": {
@@ -68,6 +68,76 @@
         }
       }
     },
+    "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Laba12\\Laba12\\Laba12.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Laba12\\Laba12\\Laba12.csproj",
+        "projectName": "Laba12",
+        "projectPath": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Laba12\\Laba12\\Laba12.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Laba12\\Laba12\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\BinaryTree\\BinaryTree\\DoubleLinkedList.csproj": {
+                "projectPath": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\BinaryTree\\BinaryTree\\DoubleLinkedList.csproj"
+              },
+              "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Laba10\\Laba10\\Laba10.csproj": {
+                "projectPath": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Laba10\\Laba10\\Laba10.csproj"
+              },
+              "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\VitalikTeamLibrary\\VitalikTeamLibrary\\VitalikTeamLibrary.csproj": {
+                "projectPath": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\VitalikTeamLibrary\\VitalikTeamLibrary\\VitalikTeamLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\VitalikTeamLibrary\\VitalikTeamLibrary\\VitalikTeamLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -125,136 +195,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Admin\\source\\repos\\BinaryTree\\BinaryTree\\DoubleLinkedList.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\BinaryTree\\BinaryTree\\DoubleLinkedList.csproj",
-        "projectName": "DoubleLinkedList",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\BinaryTree\\BinaryTree\\DoubleLinkedList.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\BinaryTree\\BinaryTree\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Admin\\source\\repos\\Laba12\\Laba12\\Laba12.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Laba12\\Laba12\\Laba12.csproj",
-        "projectName": "Laba12",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Laba12\\Laba12\\Laba12.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Laba12\\Laba12\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Laba10\\Laba10\\Laba10.csproj": {
-                "projectPath": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Laba10\\Laba10\\Laba10.csproj"
-              },
-              "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\VitalikTeamLibrary\\VitalikTeamLibrary\\VitalikTeamLibrary.csproj": {
-                "projectPath": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\VitalikTeamLibrary\\VitalikTeamLibrary\\VitalikTeamLibrary.csproj"
-              },
-              "C:\\Users\\Admin\\source\\repos\\BinaryTree\\BinaryTree\\DoubleLinkedList.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\BinaryTree\\BinaryTree\\DoubleLinkedList.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "dO+Qo9bkdkrAmyYebhMzFmpOYQb3lo1BlBu1WB6MpmH1JCOiYclnGK+8TzdY/VMeDpYzkiwW0nlrW6+7wfiNZw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Laba12\\Laba12\\Laba12.csproj",
+  "dgSpecHash": "a7ixlqqDNJuQ/wf1SN8R7iR9ClQOYvocOKabnQTFnDxFTgzCXC3Jqhx0ErANAygp3V93BpkGQxEx7NilcXbfjA==",
+  "success": false,
+  "projectFilePath": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Laba12\\Laba12\\Laba12.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\BinaryTree\\BinaryTree\\DoubleLinkedList.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\BinaryTree\\BinaryTree\\DoubleLinkedList.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
