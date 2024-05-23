@@ -1,0 +1,12 @@
+C:\Users\User\Documents\VS\Ostov\Ostov\bin\Debug\Ostov.exe
+C:\Users\User\Documents\VS\Ostov\Ostov\bin\Debug\Ostov.pdb
+C:\Users\User\Documents\VS\Ostov\Ostov\obj\Debug\Ostov.csproj.AssemblyReference.cache
+C:\Users\User\Documents\VS\Ostov\Ostov\obj\Debug\Ostov.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VS\Ostov\Ostov\obj\Debug\Ostov.exe
+C:\Users\User\Documents\VS\Ostov\Ostov\obj\Debug\Ostov.pdb
+C:\Users\Admin\source\repos\Ostov\Ostov\bin\Debug\Ostov.exe
+C:\Users\Admin\source\repos\Ostov\Ostov\bin\Debug\Ostov.pdb
+C:\Users\Admin\source\repos\Ostov\Ostov\obj\Debug\Ostov.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Ostov\Ostov\obj\Debug\Ostov.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Ostov\Ostov\obj\Debug\Ostov.exe
+C:\Users\Admin\source\repos\Ostov\Ostov\obj\Debug\Ostov.pdb

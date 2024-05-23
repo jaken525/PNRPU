@@ -1,0 +1,12 @@
+C:\Users\User\Documents\VS\Avtomat\Avtomat\bin\Debug\Avtomat.exe
+C:\Users\User\Documents\VS\Avtomat\Avtomat\bin\Debug\Avtomat.pdb
+C:\Users\User\Documents\VS\Avtomat\Avtomat\obj\Debug\Avtomat.csproj.AssemblyReference.cache
+C:\Users\User\Documents\VS\Avtomat\Avtomat\obj\Debug\Avtomat.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VS\Avtomat\Avtomat\obj\Debug\Avtomat.exe
+C:\Users\User\Documents\VS\Avtomat\Avtomat\obj\Debug\Avtomat.pdb
+C:\Users\Admin\source\repos\Avtomat\Avtomat\bin\Debug\Avtomat.exe
+C:\Users\Admin\source\repos\Avtomat\Avtomat\bin\Debug\Avtomat.pdb
+C:\Users\Admin\source\repos\Avtomat\Avtomat\obj\Debug\Avtomat.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Avtomat\Avtomat\obj\Debug\Avtomat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Avtomat\Avtomat\obj\Debug\Avtomat.exe
+C:\Users\Admin\source\repos\Avtomat\Avtomat\obj\Debug\Avtomat.pdb

@@ -1,0 +1,12 @@
+C:\Users\User\Documents\VS\Paint_graf\Print_graf\Print_graf\bin\Debug\Print_graf.exe
+C:\Users\User\Documents\VS\Paint_graf\Print_graf\Print_graf\bin\Debug\Print_graf.pdb
+C:\Users\User\Documents\VS\Paint_graf\Print_graf\Print_graf\obj\Debug\Print_graf.csproj.AssemblyReference.cache
+C:\Users\User\Documents\VS\Paint_graf\Print_graf\Print_graf\obj\Debug\Print_graf.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VS\Paint_graf\Print_graf\Print_graf\obj\Debug\Print_graf.exe
+C:\Users\User\Documents\VS\Paint_graf\Print_graf\Print_graf\obj\Debug\Print_graf.pdb
+C:\Users\Admin\source\repos\Paint_graf\Print_graf\Print_graf\bin\Debug\Print_graf.exe
+C:\Users\Admin\source\repos\Paint_graf\Print_graf\Print_graf\bin\Debug\Print_graf.pdb
+C:\Users\Admin\source\repos\Paint_graf\Print_graf\Print_graf\obj\Debug\Print_graf.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Paint_graf\Print_graf\Print_graf\obj\Debug\Print_graf.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Paint_graf\Print_graf\Print_graf\obj\Debug\Print_graf.exe
+C:\Users\Admin\source\repos\Paint_graf\Print_graf\Print_graf\obj\Debug\Print_graf.pdb

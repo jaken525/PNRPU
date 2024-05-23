@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ToysDB\\ToysDB\\ToysDB.csproj",
+      "projectUniqueName": "A:\\GitHub\\PNRPU\\второй курс лабы\\Курсовая\\ToysDB\\ToysDB\\ToysDB.csproj",
       "projectName": "ToysDB",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\ToysDB\\ToysDB\\ToysDB.csproj",
+      "projectPath": "A:\\GitHub\\PNRPU\\второй курс лабы\\Курсовая\\ToysDB\\ToysDB\\ToysDB.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\ToysDB\\ToysDB\\obj\\",
+      "outputPath": "A:\\GitHub\\PNRPU\\второй курс лабы\\Курсовая\\ToysDB\\ToysDB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

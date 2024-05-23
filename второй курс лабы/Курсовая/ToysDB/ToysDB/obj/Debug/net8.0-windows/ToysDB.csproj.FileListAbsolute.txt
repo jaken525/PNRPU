@@ -26,3 +26,21 @@ C:\Users\Admin\source\repos\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.SignUp
 C:\Users\Admin\source\repos\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.ChangeData.resources
 C:\Users\Admin\source\repos\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.ChangePrice.resources
 C:\Users\Admin\source\repos\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.Request.resources
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.Additional_Table.resources
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.ChangeData.resources
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.ChangePrice.resources
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.Login.resources
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.Request.resources
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.SaleToy.resources
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.SignUp.resources
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.SqlCommandForm.resources
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.Window.resources
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.csproj.GenerateResource.cache
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.GeneratedMSBuildEditorConfig.editorconfig
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.AssemblyInfoInputs.cache
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.AssemblyInfo.cs
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.csproj.CoreCompileInputs.cache
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.sourcelink.json
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.dll
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\refint\ToysDB.dll
+A:\GitHub\PNRPU\второй курс лабы\Курсовая\ToysDB\ToysDB\obj\Debug\net8.0-windows\ToysDB.pdb
