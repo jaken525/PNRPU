@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DoubleLinkedList/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DoubleLinkedList.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DoubleLinkedList.dll": {}
+        }
+      },
+      "Laba10/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "VitalikTeamLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Laba10.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Laba10.dll": {}
+        }
+      },
+      "VitalikTeamLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VitalikTeamLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VitalikTeamLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoubleLinkedList/1.0.0": {
+      "type": "project",
+      "path": "../../BinaryTree/BinaryTree/DoubleLinkedList.csproj",
+      "msbuildProject": "../../BinaryTree/BinaryTree/DoubleLinkedList.csproj"
+    },
+    "Laba10/1.0.0": {
+      "type": "project",
+      "path": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Laba10\\Laba10\\Laba10.csproj",
+      "msbuildProject": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Laba10\\Laba10\\Laba10.csproj"
+    },
+    "VitalikTeamLibrary/1.0.0": {
+      "type": "project",
+      "path": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\VitalikTeamLibrary\\VitalikTeamLibrary\\VitalikTeamLibrary.csproj",
+      "msbuildProject": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\VitalikTeamLibrary\\VitalikTeamLibrary\\VitalikTeamLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DoubleLinkedList >= 1.0.0",
+      "Laba10 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Laba13\\Laba14\\Laba13.csproj",
+      "projectName": "Laba13",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\Laba13\\Laba14\\Laba13.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\Laba13\\Laba14\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Laba10\\Laba10\\Laba10.csproj": {
+              "projectPath": "A:\\GitHub\\PNRPU\\второй курс лабы\\ООП\\Laba10\\Laba10\\Laba10.csproj"
+            },
+            "C:\\Users\\Admin\\source\\repos\\BinaryTree\\BinaryTree\\DoubleLinkedList.csproj": {
+              "projectPath": "C:\\Users\\Admin\\source\\repos\\BinaryTree\\BinaryTree\\DoubleLinkedList.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Laba14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9267D8BE-0589-41E3-B748-87BC1610F722}|Laba14\\Laba14.csproj|c:\\users\\admin\\source\\repos\\laba14\\laba14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9267D8BE-0589-41E3-B748-87BC1610F722}|Laba14\\Laba14.csproj|solutionrelative:laba14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99AC03F-1C00-4C1A-8381-450BE45E0120}|..\\BinaryTree\\BinaryTree\\DoubleLinkedList.csproj|c:\\users\\admin\\source\\repos\\binarytree\\binarytree\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 685,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BinaryTree\\BinaryTree\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BinaryTree\\BinaryTree\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BinaryTree\\BinaryTree\\Class1.cs",
+              "RelativeToolTip": "..\\BinaryTree\\BinaryTree\\Class1.cs",
+              "ViewState": "AQIAACkBAAAAAAAAAAAuwHEBAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:58:25.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba14\\Laba14\\Program.cs",
+              "RelativeDocumentMoniker": "Laba14\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba14\\Laba14\\Program.cs",
+              "RelativeToolTip": "Laba14\\Program.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAcwJAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:53:55.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
