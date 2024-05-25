@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Laba16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|c:\\users\\admin\\source\\repos\\laba16\\saver\\testsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:saver\\testsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|c:\\users\\admin\\source\\repos\\laba16\\saver\\textsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:saver\\textsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\saver\\getsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:saver\\getsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\loader\\jsonloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:loader\\jsonloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\saver\\isaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:saver\\isaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\persons\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:persons\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\saver\\jsonsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:saver\\jsonsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\saver\\binarysaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:saver\\binarysaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|c:\\users\\admin\\source\\repos\\laba16\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\loader\\iloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:loader\\iloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\loader\\getloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:loader\\getloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\loader\\xmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:loader\\xmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\saver\\xmlsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:saver\\xmlsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\persons\\randomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:persons\\randomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\loader\\binaryloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:loader\\binaryloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\saver\\abstractgetsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:saver\\abstractgetsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\objectholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:objectholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|C:\\Users\\Admin\\source\\repos\\Laba16\\loader\\abstractgetloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD06C9-1F91-4A44-BCE4-7D3BA7BCAFAE}|WinForm.csproj|solutionrelative:loader\\abstractgetloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 685,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestSaver.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\TestSaver.cs",
+              "RelativeDocumentMoniker": "Saver\\TestSaver.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\TestSaver.cs",
+              "RelativeToolTip": "Saver\\TestSaver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T06:11:54.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AbstractGetLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Loader\\AbstractGetLoader.cs",
+              "RelativeDocumentMoniker": "Loader\\AbstractGetLoader.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Loader\\AbstractGetLoader.cs",
+              "RelativeToolTip": "Loader\\AbstractGetLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:52:31.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Persons\\Person.cs",
+              "RelativeDocumentMoniker": "Persons\\Person.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Persons\\Person.cs",
+              "RelativeToolTip": "Persons\\Person.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv10AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:52:27.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetSaver.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\GetSaver.cs",
+              "RelativeDocumentMoniker": "Saver\\GetSaver.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\GetSaver.cs",
+              "RelativeToolTip": "Saver\\GetSaver.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAADwvzsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:51:40.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AbstractGetSaver.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\AbstractGetSaver.cs",
+              "RelativeDocumentMoniker": "Saver\\AbstractGetSaver.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\AbstractGetSaver.cs",
+              "RelativeToolTip": "Saver\\AbstractGetSaver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:52:24.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextSaver.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\TextSaver.cs",
+              "RelativeDocumentMoniker": "Saver\\TextSaver.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\TextSaver.cs",
+              "RelativeToolTip": "Saver\\TextSaver.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAiwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:52:59.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BinarySaver.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\BinarySaver.cs",
+              "RelativeDocumentMoniker": "Saver\\BinarySaver.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\BinarySaver.cs",
+              "RelativeToolTip": "Saver\\BinarySaver.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:52:21.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISaver.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\ISaver.cs",
+              "RelativeDocumentMoniker": "Saver\\ISaver.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\ISaver.cs",
+              "RelativeToolTip": "Saver\\ISaver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:52:16.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JSONSaver.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\JSONSaver.cs",
+              "RelativeDocumentMoniker": "Saver\\JSONSaver.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\JSONSaver.cs",
+              "RelativeToolTip": "Saver\\JSONSaver.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:54:31.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "XMLSaver.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\XMLSaver.cs",
+              "RelativeDocumentMoniker": "Saver\\XMLSaver.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Saver\\XMLSaver.cs",
+              "RelativeToolTip": "Saver\\XMLSaver.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:52:19.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ObjectHolder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\ObjectHolder.cs",
+              "RelativeDocumentMoniker": "ObjectHolder.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\ObjectHolder.cs",
+              "RelativeToolTip": "ObjectHolder.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:51:59.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BinaryLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Loader\\BinaryLoader.cs",
+              "RelativeDocumentMoniker": "Loader\\BinaryLoader.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Loader\\BinaryLoader.cs",
+              "RelativeToolTip": "Loader\\BinaryLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:52:32.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Loader\\GetLoader.cs",
+              "RelativeDocumentMoniker": "Loader\\GetLoader.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Loader\\GetLoader.cs",
+              "RelativeToolTip": "Loader\\GetLoader.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAUwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:51:25.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:51:58.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Randomizer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Persons\\Randomizer.cs",
+              "RelativeDocumentMoniker": "Persons\\Randomizer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Persons\\Randomizer.cs",
+              "RelativeToolTip": "Persons\\Randomizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:52:28.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILoader.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Loader\\ILoader.cs",
+              "RelativeDocumentMoniker": "Loader\\ILoader.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Loader\\ILoader.cs",
+              "RelativeToolTip": "Loader\\ILoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:52:33.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JSONLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Loader\\JSONLoader.cs",
+              "RelativeDocumentMoniker": "Loader\\JSONLoader.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Loader\\JSONLoader.cs",
+              "RelativeToolTip": "Loader\\JSONLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:52:34.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "XMLLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\Loader\\XMLLoader.cs",
+              "RelativeDocumentMoniker": "Loader\\XMLLoader.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\Loader\\XMLLoader.cs",
+              "RelativeToolTip": "Loader\\XMLLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:52:35.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:47:43.07Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba16\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba16\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAswEUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:47:43.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

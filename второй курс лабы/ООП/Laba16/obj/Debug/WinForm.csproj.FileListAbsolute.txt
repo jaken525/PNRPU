@@ -1,0 +1,40 @@
+C:\Users\axyon\source\repos\Laba16\bin\Debug\Laba16.exe.config
+C:\Users\axyon\source\repos\Laba16\bin\Debug\Laba16.exe
+C:\Users\axyon\source\repos\Laba16\bin\Debug\Laba16.pdb
+C:\Users\axyon\source\repos\Laba16\bin\Debug\Newtonsoft.Json.dll
+C:\Users\axyon\source\repos\Laba16\bin\Debug\Newtonsoft.Json.xml
+C:\Users\axyon\source\repos\Laba16\obj\Debug\WinForm.csproj.AssemblyReference.cache
+C:\Users\axyon\source\repos\Laba16\obj\Debug\WinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\axyon\source\repos\Laba16\obj\Debug\Laba16.Properties.Resources.resources
+C:\Users\axyon\source\repos\Laba16\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\axyon\source\repos\Laba16\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\axyon\source\repos\Laba16\obj\Debug\WinForm.csproj.CopyComplete
+C:\Users\axyon\source\repos\Laba16\obj\Debug\Laba16.exe
+C:\Users\axyon\source\repos\Laba16\obj\Debug\Laba16.pdb
+C:\Users\axyon\source\repos\Laba16\obj\Debug\WinForm.MainForm.resources
+C:\Users\Admin\Desktop\уник\второй курс\Лабы по ООП\Laba16\obj\Debug\WinForm.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\уник\второй курс\Лабы по ООП\Laba16\obj\Debug\Laba16.exe
+C:\Users\Admin\Desktop\уник\второй курс\Лабы по ООП\Laba16\obj\Debug\Laba16.pdb
+C:\Users\Admin\Desktop\уник\второй курс\Лабы по ООП\Laba16\bin\Debug\Laba16.exe.config
+C:\Users\Admin\Desktop\уник\второй курс\Лабы по ООП\Laba16\bin\Debug\Laba16.exe
+C:\Users\Admin\Desktop\уник\второй курс\Лабы по ООП\Laba16\bin\Debug\Laba16.pdb
+C:\Users\Admin\Desktop\уник\второй курс\Лабы по ООП\Laba16\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\уник\второй курс\Лабы по ООП\Laba16\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\уник\второй курс\Лабы по ООП\Laba16\obj\Debug\WinForm.MainForm.resources
+C:\Users\Admin\Desktop\уник\второй курс\Лабы по ООП\Laba16\obj\Debug\Laba16.Properties.Resources.resources
+C:\Users\Admin\Desktop\уник\второй курс\Лабы по ООП\Laba16\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\уник\второй курс\Лабы по ООП\Laba16\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\уник\второй курс\Лабы по ООП\Laba16\obj\Debug\WinForm.csproj.Up2Date
+C:\Users\Admin\source\repos\Laba16\bin\Debug\Laba16.exe.config
+C:\Users\Admin\source\repos\Laba16\bin\Debug\Laba16.exe
+C:\Users\Admin\source\repos\Laba16\bin\Debug\Laba16.pdb
+C:\Users\Admin\source\repos\Laba16\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Laba16\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\Laba16\obj\Debug\WinForm.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Laba16\obj\Debug\WinForm.MainForm.resources
+C:\Users\Admin\source\repos\Laba16\obj\Debug\Laba16.Properties.Resources.resources
+C:\Users\Admin\source\repos\Laba16\obj\Debug\WinForm.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Laba16\obj\Debug\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Laba16\obj\Debug\WinForm.csproj.Up2Date
+C:\Users\Admin\source\repos\Laba16\obj\Debug\Laba16.exe
+C:\Users\Admin\source\repos\Laba16\obj\Debug\Laba16.pdb

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VitalikTeamLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+823b74e8af993665f723cb870b37d6b9ce9355b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4423ff90379acbdb81f1c56c2e96cbe4d2960855")]
 [assembly: System.Reflection.AssemblyProductAttribute("VitalikTeamLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VitalikTeamLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
