@@ -1,19 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba12\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Laba12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F376FE5-ADA0-4B4F-93BD-E4D67704DAA4}|..\\Laba10\\Laba10\\Laba10.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\laba10\\laba10\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F746895-5C94-4417-8371-B878DDACC3A0}|Laba12\\Laba12.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\laba12\\laba12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F746895-5C94-4417-8371-B878DDACC3A0}|Laba12\\Laba12.csproj|c:\\users\\admin\\source\\repos\\laba12\\laba12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F746895-5C94-4417-8371-B878DDACC3A0}|Laba12\\Laba12.csproj|solutionrelative:laba12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F376FE5-ADA0-4B4F-93BD-E4D67704DAA4}|..\\Laba10\\Laba10\\Laba10.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\laba10\\laba10\\randomfortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04A27C55-A42B-4D87-8C3D-E1524B535432}|..\\BinaryTree\\BinaryTree\\DoubleLinkedList.csproj|c:\\users\\admin\\source\\repos\\binarytree\\binarytree\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\BinaryTree\\BinaryTree\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F376FE5-ADA0-4B4F-93BD-E4D67704DAA4}|A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba10\\Laba10\\Laba10.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\laba10\\laba10\\randomfortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F376FE5-ADA0-4B4F-93BD-E4D67704DAA4}|A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba10\\Laba10\\Laba10.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043E\u043E\u043F\\laba10\\laba10\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,17 +23,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 685,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba12\\Laba12\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Laba12\\Laba12\\Program.cs",
               "RelativeDocumentMoniker": "Laba12\\Program.cs",
-              "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba12\\Laba12\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Laba12\\Laba12\\Program.cs",
               "RelativeToolTip": "Laba12\\Program.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAmwKEAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAmwEIAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T11:53:15.435Z",
               "IsPinned": true,
@@ -52,35 +52,34 @@
               "DocumentIndex": 2,
               "Title": "RandomForTests.cs",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba10\\Laba10\\RandomForTests.cs",
-              "RelativeDocumentMoniker": "..\\Laba10\\Laba10\\RandomForTests.cs",
               "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba10\\Laba10\\RandomForTests.cs",
-              "RelativeToolTip": "..\\Laba10\\Laba10\\RandomForTests.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T13:09:59.221Z"
+              "WhenOpened": "2024-03-28T13:09:59.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BinaryTree\\BinaryTree\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BinaryTree\\BinaryTree\\Class1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BinaryTree\\BinaryTree\\Class1.cs",
+              "RelativeToolTip": "..\\BinaryTree\\BinaryTree\\Class1.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAIwCAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T15:30:29.053Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BinaryTree\\BinaryTree\\Class1.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BinaryTree\\BinaryTree\\Class1.cs",
-              "ViewState": "AQIAAP0AAAAAAAAAAAAIwCAAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T15:30:29.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Person.cs",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba10\\Laba10\\Person.cs",
-              "RelativeDocumentMoniker": "..\\Laba10\\Laba10\\Person.cs",
               "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041E\u041E\u041F\\Laba10\\Laba10\\Person.cs",
-              "RelativeToolTip": "..\\Laba10\\Laba10\\Person.cs",
-              "ViewState": "AgIAALEAAAAAAAAAAAAAAA8CAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAO8BAAAAAAAAAAAwwA8CAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T12:03:37.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T12:03:37.614Z"
             }
           ]
         }

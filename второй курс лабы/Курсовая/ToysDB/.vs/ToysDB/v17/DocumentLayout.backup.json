@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{273D3DA9-3E92-4CA7-95E1-95119105351A}|ToysDB\\ToysDB.csproj|A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\toysdb\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{273D3DA9-3E92-4CA7-95E1-95119105351A}|ToysDB\\ToysDB.csproj|solutionrelative:toysdb\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{273D3DA9-3E92-4CA7-95E1-95119105351A}|ToysDB\\ToysDB.csproj|a:\\github\\pnrpu\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\toysdb\\toysdb\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{273D3DA9-3E92-4CA7-95E1-95119105351A}|ToysDB\\ToysDB.csproj|solutionrelative:toysdb\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,6 +71,10 @@
       "RelativeMoniker": "D:0:0:{273D3DA9-3E92-4CA7-95E1-95119105351A}|ToysDB\\ToysDB.csproj|solutionrelative:toysdb\\changeprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{273D3DA9-3E92-4CA7-95E1-95119105351A}|ToysDB\\ToysDB.csproj|A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\toysdb\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{273D3DA9-3E92-4CA7-95E1-95119105351A}|ToysDB\\ToysDB.csproj|solutionrelative:toysdb\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{273D3DA9-3E92-4CA7-95E1-95119105351A}|ToysDB\\ToysDB.csproj|A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\toysdb\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{273D3DA9-3E92-4CA7-95E1-95119105351A}|ToysDB\\ToysDB.csproj|solutionrelative:toysdb\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -98,7 +98,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Static.cs",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Static.cs",
               "RelativeDocumentMoniker": "ToysDB\\Static.cs",
@@ -107,7 +107,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T12:54:58.106Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -119,29 +120,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
+              "Title": "Additional Table.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Additional Table.cs",
+              "RelativeDocumentMoniker": "ToysDB\\Additional Table.cs",
+              "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Additional Table.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ToysDB\\Additional Table.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:27:22.35Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "SqlCommandForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\SqlCommandForm.cs",
               "RelativeDocumentMoniker": "ToysDB\\SqlCommandForm.cs",
               "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\SqlCommandForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "ToysDB\\SqlCommandForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T17:14:48.122Z"
+              "WhenOpened": "2024-05-05T17:14:48.122Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "SignUp.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\SignUp.cs",
               "RelativeDocumentMoniker": "ToysDB\\SignUp.cs",
               "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\SignUp.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "ToysDB\\SignUp.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T09:22:50.595Z"
+              "WhenOpened": "2024-05-11T09:22:50.595Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "SignUp.cs",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\SignUp.cs",
               "RelativeDocumentMoniker": "ToysDB\\SignUp.cs",
@@ -149,11 +164,12 @@
               "RelativeToolTip": "ToysDB\\SignUp.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T09:33:20.092Z"
+              "WhenOpened": "2024-05-11T09:33:20.092Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "SqlCommandForm.cs",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\SqlCommandForm.cs",
               "RelativeDocumentMoniker": "ToysDB\\SqlCommandForm.cs",
@@ -161,11 +177,12 @@
               "RelativeToolTip": "ToysDB\\SqlCommandForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T17:27:02.209Z"
+              "WhenOpened": "2024-05-05T17:27:02.209Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "SaleToy.cs",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\SaleToy.cs",
               "RelativeDocumentMoniker": "ToysDB\\SaleToy.cs",
@@ -178,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Request.cs",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Request.cs",
               "RelativeDocumentMoniker": "ToysDB\\Request.cs",
@@ -191,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Program.cs",
               "RelativeDocumentMoniker": "ToysDB\\Program.cs",
@@ -199,47 +216,25 @@
               "RelativeToolTip": "ToysDB\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T06:54:09.445Z"
+              "WhenOpened": "2024-04-21T06:54:09.445Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Login.cs",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Login.cs",
               "RelativeDocumentMoniker": "ToysDB\\Login.cs",
               "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Login.cs",
               "RelativeToolTip": "ToysDB\\Login.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwC0AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwC0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T12:41:33.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Window.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Window.cs",
-              "RelativeDocumentMoniker": "ToysDB\\Window.cs",
-              "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Window.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "ToysDB\\Window.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T13:09:26.354Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Additional Table.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Additional Table.cs",
-              "RelativeDocumentMoniker": "ToysDB\\Additional Table.cs",
-              "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Additional Table.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "ToysDB\\Additional Table.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T15:27:22.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "ChangePrice.cs",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\ChangePrice.cs",
               "RelativeDocumentMoniker": "ToysDB\\ChangePrice.cs",
@@ -252,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Window.cs",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Window.cs",
               "RelativeDocumentMoniker": "ToysDB\\Window.cs",
@@ -265,18 +260,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Request.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Request.cs",
               "RelativeDocumentMoniker": "ToysDB\\Request.cs",
               "ToolTip": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Request.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "ToysDB\\Request.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:10:37.456Z"
+              "WhenOpened": "2024-05-12T15:10:37.456Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "DataBase.cs",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\DataBase.cs",
               "RelativeDocumentMoniker": "ToysDB\\DataBase.cs",
@@ -284,17 +280,28 @@
               "RelativeToolTip": "ToysDB\\DataBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T12:44:48.353Z"
+              "WhenOpened": "2024-05-14T12:44:48.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "ChangePrice.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\ChangePrice.cs",
               "RelativeDocumentMoniker": "ToysDB\\ChangePrice.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\ToysDB\\ToysDB\\ChangePrice.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T13:36:09.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Window.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Window.cs",
+              "RelativeDocumentMoniker": "ToysDB\\Window.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ToysDB\\ToysDB\\Window.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:09:26.354Z"
             },
             {
               "$type": "Document",
@@ -318,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "ChangeData.cs",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\ChangeData.cs",
               "RelativeDocumentMoniker": "ToysDB\\ChangeData.cs",
@@ -340,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Additional Table.cs",
               "DocumentMoniker": "A:\\GitHub\\PNRPU\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441 \u043B\u0430\u0431\u044B\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\ToysDB\\ToysDB\\Additional Table.cs",
               "RelativeDocumentMoniker": "ToysDB\\Additional Table.cs",
